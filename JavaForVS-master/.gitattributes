@@ -1,0 +1,48 @@
+# Set the default behavior (used when a rule below doesn't match)
+* text=auto
+
+# Text files
+*.md text
+*.rtf text
+*.txt text
+LICENSE text
+
+# C# projects and source files
+*.cs text
+*.csproj text
+*.resx text
+*.settings text
+*.xaml text
+
+# C++ projects and source files
+*.cpp text
+*.filters text
+*.h text
+*.def text
+*.vcxproj text
+
+# Java projects and source files
+*.javaproj text
+*.java text
+
+# Other source files
+*.g3 text
+*.g4 text
+*.config text
+*.datasource text
+*.nuspec text
+*.vsixmanifest text
+*.vstemplate text
+*.xsd text
+*.svcinfo text
+*.svcmap text
+*.wsdl text
+
+
+# Solutions
+*.sln text
+*.targets text
+*.props text
+
+# MS office and other "productivity" binary files
+*.xlsx binary
